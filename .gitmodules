@@ -1,0 +1,3 @@
+[submodule "submodule-playground-sub"]
+	path = submodule-playground-sub
+	url = https://github.com/ueken65/submodule-playground-sub.git
